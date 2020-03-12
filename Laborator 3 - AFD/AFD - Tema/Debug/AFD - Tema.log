@@ -1,0 +1,10 @@
+﻿  AFD.cpp
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(27,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(40,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(118,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(122,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(126,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(132,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(141,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\AFD - Tema\AFD.cpp(151,32): warning C4018: '<': signed/unsigned mismatch
+  AFD - Tema.vcxproj -> C:\Users\Bogdan\Desktop\Programs\Facultate\AN II\LFC\Lab LFC\AFD - Tema\Debug\AFD - Tema.exe

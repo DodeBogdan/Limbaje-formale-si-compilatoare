@@ -1,0 +1,61 @@
+﻿  AFD.cpp
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(33,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(46,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(153,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(157,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(161,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(167,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(176,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\AFD.cpp(186,33): warning C4018: '<': signed/unsigned mismatch
+  Minimizare.cpp
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(11,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(17,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(55,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(72,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(74,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(83,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(84,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(93,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(100,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(116,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(127,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(134,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(142,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(154,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(155,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(181,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(184,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(193,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(200,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(201,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(210,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(213,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(223,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(226,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(234,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(236,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(241,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(252,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(243,58): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(269,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(289,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(290,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(310,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(311,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(319,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(325,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(326,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(335,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(341,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(345,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(347,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(367,9): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(369,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(373,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(377,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(383,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(392,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Minimizare ADF\Minimizare.cpp(402,33): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Minimizare ADF.vcxproj -> C:\Users\Bogdan\Desktop\Programs\Facultate\AN_II\LFC\Lab LFC\Minimizare ADF\Debug\Minimizare ADF.exe

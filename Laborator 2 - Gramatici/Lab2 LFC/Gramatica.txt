@@ -1,0 +1,11 @@
+SCB
+abc
+S
+S aSBC
+S aBC
+aB ab
+bB bb
+bC bc
+CB BC
+cC Cc
+cB Bc
